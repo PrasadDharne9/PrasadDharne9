@@ -4,10 +4,6 @@
 <h3 align="center">📍 Mumbai, Maharashtra, India</h3>
 <br>
 
-  
-
-
----
 
 ## 😄 About Me  
 - Data Scientist with **2+ years of experience** building and deploying ML systems that drive real business impact  
@@ -16,9 +12,7 @@
 - Strong in **A/B testing, experimentation frameworks, and translating model outputs into business decisions**  
 - Passionate about building **scalable, production-grade AI products** rather than just notebooks
 
----
-
-
+<br>
 
 ## 🛠️ Tech Stack  
 
@@ -42,23 +36,21 @@
 - Tableau, Matplotlib, Plotly  
 - A/B Testing & Statistical Analysis  
 
----
+<br>
 
 ## 📫 Connect With Me  
 
 <a href="https://linkedin.com/in/dharneprasad">
-  <img src="https://logo.clearbit.com/linkedin.com" height="50" width="50"/>
-</a>
+  <img src="https://logo.clearbit.com/linkedin.com" alt="LinkedIn Logo" height="50" width="50" ></a>
 
 <a href="https://github.com/PrasadDharne9">
-  <img src="https://logo.clearbit.com/github.com" height="50" width="50"/>
-</a>
+  <img src="https://logo.clearbit.com/github.com"  alt="github Logo" height="50" width="50"/></a>
 
 <a href="mailto:dharneprasadt@gmail.com">
-  <img src="https://logo.clearbit.com/gmail.com" height="50" width="50"/>
+  <img src="https://logo.clearbit.com/gmail.com"  alt="Mail Logo" height="50" width="50"/>
 </a>
 
----
+[---](https://youtu.be/BbcLJv1Rnoc?si=JEAaNqJiLyYqeTPu)
 
 ## 📊 GitHub Stats  
 
@@ -70,7 +62,3 @@
 - Production-scale **Agentic AI Systems**  
 - Real-time **Optimization & Forecasting Platforms**  
 - Scalable **ML Infrastructure for Enterprise AI Products**
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=PrasadDharne9&show_icons=true" width="400">
