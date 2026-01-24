@@ -15,32 +15,32 @@
 <br>
 
 ## 🛠️ Tech Stack  
-
-### 💻 Machine Learning & AI  
-- Regression, Classification, Time Series Forecasting  
-- XGBoost, LightGBM, Model Optimization  
-- PyTorch, TensorFlow, CNNs, YOLOv8, Transfer Learning  
-
-### 🧠 NLP & GenAI  
-- LangChain, RAG Systems, Agentic AI  
-- Embeddings, LLM Prompting, Text Classification  
-
-### ⚙️ MLOps & Deployment  
-- Docker, FastAPI, CI/CD  
-- Jenkins, GitHub Actions  
-- Model Monitoring & Drift Detection  
-
-### ☁️ Cloud & Data  
+- <a>
+  <img src="https://images.prismic.io/plotly-marketing-website-2/0ca402d8-7851-48a0-a832-cfffdd35873b_Langchain_logo_dark.png?auto=compress,format" alt="python Logo" height="50" width="50" ></a> 
+- <a>
+  <img src="https://tse4.mm.bing.net/th/id/OIP.s4HoGrVDAaD3AwaWmEjjSAHaDZ?pid=Api&P=0&h=180" alt="python Logo" height="50" width="50" ></a> 
+ - <a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png?20211003060202" alt="python Logo" height="50" width="50" ></a> 
+ - <a>
+  <img src="https://logowik.com/content/uploads/images/tensorflow4903.jpg" alt="python Logo" height="50" width="50" ></a>  
+-<a>
+  <img src="https://tse2.mm.bing.net/th/id/OIP.Op4kDY4K4d126AL8ohW4awHaEK?pid=Api&P=0&h=180" alt="docker Logo" height="50" width="50" ></a>  (EC2, S3, Lambda, SageMaker, API Gateway) 
+- <a>
+  <img src="https://tse2.mm.bing.net/th/id/OIP.TJOtzb0R00HVenXiKdRxogHaCY?pid=Api&P=0&h=180" alt="jenkins Logo" height="50" width="50" ></a> 
+- <a>
+  <img src="https://mlflow.org/docs/latest/api_reference/_static/MLflow-logo-final-black.png" alt="mlflow Logo" height="50" width="50" ></a> 
+- <a>
+  <img src="" alt="python Logo" height="50" width="50" ></a> 
 - <a>
   <img src="https://tse3.mm.bing.net/th/id/OIP.neG4D9C8UcJvNn6bverfIAHaEK?pid=Api&P=0&h=180" alt="aws Logo" height="50" width="50" ></a>  (EC2, S3, Lambda, SageMaker, API Gateway) 
 - <a>
   <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png" alt="python Logo" height="50" width="50" ></a>   
 - <a>
-  <img src="https://www.kindpng.com/picc/m/81-811458_jupyter-notebook-logo-hd-png-download.png" alt="Jp Logo" height="50" width="50" ></a>y) 
+  <img src="https://www.kindpng.com/picc/m/81-811458_jupyter-notebook-logo-hd-png-download.png" alt="Jp Logo" height="50" width="50" ></a>
 - <a>
-  <img src="https://static.vecteezy.com/system/resources/previews/036/044/336/non_2x/sql-database-icon-logo-design-ui-or-ux-app-png.png" alt="sql Logo" height="50" width="50" ></a>y) 
+  <img src="https://static.vecteezy.com/system/resources/previews/036/044/336/non_2x/sql-database-icon-logo-design-ui-or-ux-app-png.png" alt="sql Logo" height="50" width="50" ></a>
 - <a>
-  <img src="https://tse2.mm.bing.net/th/id/OIP.XNJi-mLPHkDS4q9ld7QtZQHaEK?pid=Api&P=0&h=180" alt="sql Logo" height="50" width="50" ></a>y)
+  <img src="https://tse2.mm.bing.net/th/id/OIP.XNJi-mLPHkDS4q9ld7QtZQHaEK?pid=Api&P=0&h=180" alt="sql Logo" height="50" width="50" ></a>
 
 <br>
 
