@@ -31,9 +31,13 @@
 - Model Monitoring & Drift Detection  
 
 ### ☁️ Cloud & Data  
-- AWS (EC2, S3, Lambda, SageMaker, API Gateway)  
 - <a>
-  <img src="https://tse3.mm.bing.net/th/id/OIP.neG4D9C8UcJvNn6bverfIAHaEK?pid=Api&P=0&h=180" alt="LinkedIn Logo" height="50" width="50" ></a>
+  <img src="https://tse3.mm.bing.net/th/id/OIP.neG4D9C8UcJvNn6bverfIAHaEK?pid=Api&P=0&h=180" alt="aws Logo" height="50" width="50" ></a>  (EC2, S3, Lambda, SageMaker, API Gateway) 
+- <a>
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png" alt="python Logo" height="50" width="50" ></a>  (EC2, S3, Lambda, SageMaker, API Gateway) 
+- <a>
+  <img src="https://www.kindpng.com/picc/m/81-811458_jupyter-notebook-logo-hd-png-download.png" alt="Jp Logo" height="50" width="50" ></a>  (EC2, S3, Lambda, SageMaker, API Gateway) 
+-
 - Python, SQL, Git, Bash, Jupyter  
 - Tableau, Matplotlib, Plotly  
 - A/B Testing & Statistical Analysis  
