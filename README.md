@@ -1,11 +1,22 @@
 
 <h1 align="center">Welcome to my profile, I'm Prasad Dharne</h1>
-<h3 align="center"> Data Scientist.</h3>
+<h3 align="center">🚀 Data Scientist | Machine Learning Engineer | GenAI & Optimization Systems Builder</h3>
+<h3 align="center">📍 Mumbai, Maharashtra, India</h3>
 <br>
 
-## 😄 About me:
-- Exploring about Data science and business analytics, 
-- Have worked on projects related to machine learning and AI. 
+  
+
+
+---
+
+## 😄 About Me  
+- Data Scientist with **2+ years of experience** building and deploying ML systems that drive real business impact  
+- Specialized in **Forecasting, Optimization, NLP, Computer Vision, and Agentic AI Systems**  
+- Experienced in **end-to-end ML pipelines** — from data ingestion and modeling to production deployment  
+- Strong in **A/B testing, experimentation frameworks, and translating model outputs into business decisions**  
+- Passionate about building **scalable, production-grade AI products** rather than just notebooks
+
+---
 
 
 
