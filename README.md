@@ -48,8 +48,7 @@
 "  alt="github Logo" height="50" width="50"/></a>
 
 <a href="mailto:dharneprasadt@gmail.com">
-  <img src="<img width="2500" height="1806" alt="image" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png"  alt="Mail Logo" height="50" width="50"/>
-</a>
+  <img src="https://tse1.mm.bing.net/th/id/OIP.DxVporgy9-QO6I0uK86dgQHaHk?pid=Api&P=0&h=180" alt="mail Logo" height="50" width="50" ></a>
 
 [---](https://youtu.be/BbcLJv1Rnoc?si=JEAaNqJiLyYqeTPu)
 
