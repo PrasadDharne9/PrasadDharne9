@@ -26,19 +26,14 @@
 <a>
   <img src="https://tse2.mm.bing.net/th/id/OIP.Op4kDY4K4d126AL8ohW4awHaEK?pid=Api&P=0&h=180" alt="docker Logo" height="50" width="50" ></a>   
 <a>
-  <img src="https://tse2.mm.bing.net/th/id/OIP.TJOtzb0R00HVenXiKdRxogHaCY?pid=Api&P=0&h=180" alt="jenkins Logo" height="50" width="50" ></a> 
-<a>
-  <img src="https://mlflow.org/docs/latest/api_reference/_static/MLflow-logo-final-black.png" alt="mlflow Logo" height="50" width="50" ></a> 
-<a>
-  <img src="https://tse3.mm.bing.net/th/id/OIP.neG4D9C8UcJvNn6bverfIAHaEK?pid=Api&P=0&h=180" alt="aws Logo" height="50" width="50" ></a>  (EC2, S3, Lambda, SageMaker, API Gateway) 
-<a>
-  <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png" alt="python Logo" height="50" width="50" ></a>   
-<a>
-  <img src="https://www.kindpng.com/picc/m/81-811458_jupyter-notebook-logo-hd-png-download.png" alt="Jp Logo" height="50" width="50" ></a>
-<a>
-  <img src="https://static.vecteezy.com/system/resources/previews/036/044/336/non_2x/sql-database-icon-logo-design-ui-or-ux-app-png.png" alt="sql Logo" height="50" width="50" ></a>
-<a>
+  <img src="https://tse2.mm.bing.net/th/id/OIP.TJOtzb0R00HVenXiKdRxogHaCY?pid=Api&P=0&h=180" alt="jenkins Logo" height="50" width="50" ></a> <a>
+  <img src="https://mlflow.org/docs/latest/api_reference/_static/MLflow-logo-final-black.png" alt="mlflow Logo" height="50" width="50" ></a> <a>
+  <img src="https://tse3.mm.bing.net/th/id/OIP.neG4D9C8UcJvNn6bverfIAHaEK?pid=Api&P=0&h=180" alt="aws Logo" height="50" width="50" ></a>  <a>
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png" alt="python Logo" height="50" width="50" ></a>   <a>
+  <img src="https://www.kindpng.com/picc/m/81-811458_jupyter-notebook-logo-hd-png-download.png" alt="Jp Logo" height="50" width="50" ></a> <a>
+  <img src="https://static.vecteezy.com/system/resources/previews/036/044/336/non_2x/sql-database-icon-logo-design-ui-or-ux-app-png.png" alt="sql Logo" height="50" width="50" ></a> <a>
   <img src="https://tse2.mm.bing.net/th/id/OIP.XNJi-mLPHkDS4q9ld7QtZQHaEK?pid=Api&P=0&h=180" alt="sql Logo" height="50" width="50" ></a>
+
 
 <br>
 
