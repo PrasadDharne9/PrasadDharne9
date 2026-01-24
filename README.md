@@ -44,8 +44,7 @@
   <img src="https://static.vecteezy.com/system/resources/previews/023/986/926/original/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="LinkedIn Logo" height="50" width="50" ></a>
 
 <a href="https://github.com/PrasadDharne9">
-  <img src="<img width="176" height="180" alt="image" src="https://github.com/user-attachments/assets/82cadc2e-5946-4e83-903f-6f93b49cce9b" />
-"  alt="github Logo" height="50" width="50"/></a>
+  <img src="https://toppng.com/uploads/preview/github-logo-transparent-background-11659780009eurlotp1qk.png" alt="LinkedIn Logo" height="50" width="50" ></a>
 
 <a href="mailto:dharneprasadt@gmail.com">
   <img src="https://tse1.mm.bing.net/th/id/OIP.DxVporgy9-QO6I0uK86dgQHaHk?pid=Api&P=0&h=180" alt="mail Logo" height="50" width="50" ></a>
