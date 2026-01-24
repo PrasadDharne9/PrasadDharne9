@@ -1,4 +1,3 @@
-
 <h1 align="center">Welcome to my profile, I'm Prasad Dharne</h1>
 <h3 align="center">🚀 Data Scientist | Machine Learning Engineer | GenAI & Optimization Systems Builder</h3>
 <h3 align="center">📍 Mumbai, Maharashtra, India</h3>
@@ -15,7 +14,7 @@
 <br>
 
 ## 🛠️ Tech Stack  
-<a>
+- <a>
   <img src="https://images.prismic.io/plotly-marketing-website-2/0ca402d8-7851-48a0-a832-cfffdd35873b_Langchain_logo_dark.png?auto=compress,format" alt="python Logo" height="50" width="50" ></a>   <a>
   <img src="https://tse4.mm.bing.net/th/id/OIP.s4HoGrVDAaD3AwaWmEjjSAHaDZ?pid=Api&P=0&h=180" alt="python Logo" height="50" width="50" ></a>   <a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png?20211003060202" alt="python Logo" height="50" width="50" ></a> <a>
