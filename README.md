@@ -32,6 +32,8 @@
 
 ### ☁️ Cloud & Data  
 - AWS (EC2, S3, Lambda, SageMaker, API Gateway)  
+- <a>
+  <img src="https://tse3.mm.bing.net/th/id/OIP.neG4D9C8UcJvNn6bverfIAHaEK?pid=Api&P=0&h=180" alt="LinkedIn Logo" height="50" width="50" ></a>
 - Python, SQL, Git, Bash, Jupyter  
 - Tableau, Matplotlib, Plotly  
 - A/B Testing & Statistical Analysis  
@@ -49,13 +51,13 @@
 <a href="mailto:dharneprasadt@gmail.com">
   <img src="https://tse1.mm.bing.net/th/id/OIP.DxVporgy9-QO6I0uK86dgQHaHk?pid=Api&P=0&h=180" alt="mail Logo" height="50" width="50" ></a>
 
-[---](https://youtu.be/BbcLJv1Rnoc?si=JEAaNqJiLyYqeTPu)
+<br>
 
 ## 📊 GitHub Stats  
 
 <img src="https://github-readme-stats.vercel.app/api?username=PrasadDharne9&show_icons=true&theme=default" width="400"/>
 
----
+<br>
 
 ## 🎯 What I'm Building Next  
 - Production-scale **Agentic AI Systems**  
