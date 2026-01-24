@@ -41,7 +41,7 @@
 ## 📫 Connect With Me  
 
 <a href="https://linkedin.com/in/dharneprasad">
-  <img src="https://logo.clearbit.com/linkedin.com" alt="LinkedIn Logo" height="50" width="50" ></a>
+  <img src="https://static.vecteezy.com/system/resources/previews/023/986/926/original/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="LinkedIn Logo" height="50" width="50" ></a>
 
 <a href="https://github.com/PrasadDharne9">
   <img src="https://logo.clearbit.com/github.com"  alt="github Logo" height="50" width="50"/></a>
