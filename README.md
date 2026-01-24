@@ -20,34 +20,6 @@
 
 
 
-## 🔥 Featured Projects  
-
-### 🏭 Global Process Optimization — Sugar Manufacturing  
-- Built **multi-objective optimization system** for profitability, energy efficiency, and production yield  
-- Designed **Reinforcement Learning models with Transformer-based dynamics modeling**  
-- Processed **real-time sensor data (minute-level)** for live decision support  
-- Improved plant profitability by **15%**
-
-### 🦷 Agentic RAG System — Dental Equipment Recommendation  
-- Built **LLM-powered autonomous assistant** using LangChain, Pinecone & RAG  
-- Reduced support workload by **20%**  
-- Improved product discovery time from **15 minutes → under 2 minutes**  
-- Designed **evaluation framework** for response quality & user satisfaction
-
-### ❄️ HVAC Demand Forecasting System  
-- Built **SKU-level forecasting models** using ARIMA, Prophet & Gradient Boosting  
-- Improved forecast accuracy from **72% → 82%**  
-- Reduced stockouts by **25%**  
-- Automated retraining pipelines with scheduled workflows
-
-### ⚖️ Bankruptcy Case Volume Forecasting  
-- Built **weekly demand forecasting pipeline** segmented by state & case type  
-- Achieved **90%+ accuracy**  
-- Integrated economic indicators & seasonal trends for better reliability  
-- Enabled **data-driven marketing and expansion strategy**
-
----
-
 ## 🛠️ Tech Stack  
 
 ### 💻 Machine Learning & AI  
