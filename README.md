@@ -44,10 +44,12 @@
   <img src="https://static.vecteezy.com/system/resources/previews/023/986/926/original/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="LinkedIn Logo" height="50" width="50" ></a>
 
 <a href="https://github.com/PrasadDharne9">
-  <img src="https://logo.clearbit.com/github.com"  alt="github Logo" height="50" width="50"/></a>
+  <img src="<img width="176" height="180" alt="image" src="https://github.com/user-attachments/assets/82cadc2e-5946-4e83-903f-6f93b49cce9b" />
+"  alt="github Logo" height="50" width="50"/></a>
 
 <a href="mailto:dharneprasadt@gmail.com">
-  <img src="https://logo.clearbit.com/gmail.com"  alt="Mail Logo" height="50" width="50"/>
+  <img src="<img width="2500" height="1806" alt="image" src="https://github.com/user-attachments/assets/a8e2ec48-8316-4f1a-8dd0-ee48cc1b5202" />
+"  alt="Mail Logo" height="50" width="50"/>
 </a>
 
 [---](https://youtu.be/BbcLJv1Rnoc?si=JEAaNqJiLyYqeTPu)
