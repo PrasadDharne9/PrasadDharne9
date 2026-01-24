@@ -8,12 +8,86 @@
 - Have worked on projects related to machine learning and AI. 
 
 
-## 💻 Languages and Tools:
-<img align="Left" alt="coding" width="100" src = "https://user-images.githubusercontent.com/121770900/215862340-ed5e3b8b-db74-463b-ae4b-b4c22248d4f3.png">
-<img align="Center" alt="coding" width="100" src = "https://user-images.githubusercontent.com/121770900/215864338-d46f16c4-6019-4270-8083-2ee96974c395.png">
-<img align="Center" alt="coding" width="100" src = "https://user-images.githubusercontent.com/121770900/215863652-91d1cc5b-c8cd-465a-9125-eded2562200f.png">
 
+## 🔥 Featured Projects  
 
+### 🏭 Global Process Optimization — Sugar Manufacturing  
+- Built **multi-objective optimization system** for profitability, energy efficiency, and production yield  
+- Designed **Reinforcement Learning models with Transformer-based dynamics modeling**  
+- Processed **real-time sensor data (minute-level)** for live decision support  
+- Improved plant profitability by **15%**
 
+### 🦷 Agentic RAG System — Dental Equipment Recommendation  
+- Built **LLM-powered autonomous assistant** using LangChain, Pinecone & RAG  
+- Reduced support workload by **20%**  
+- Improved product discovery time from **15 minutes → under 2 minutes**  
+- Designed **evaluation framework** for response quality & user satisfaction
+
+### ❄️ HVAC Demand Forecasting System  
+- Built **SKU-level forecasting models** using ARIMA, Prophet & Gradient Boosting  
+- Improved forecast accuracy from **72% → 82%**  
+- Reduced stockouts by **25%**  
+- Automated retraining pipelines with scheduled workflows
+
+### ⚖️ Bankruptcy Case Volume Forecasting  
+- Built **weekly demand forecasting pipeline** segmented by state & case type  
+- Achieved **90%+ accuracy**  
+- Integrated economic indicators & seasonal trends for better reliability  
+- Enabled **data-driven marketing and expansion strategy**
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Machine Learning & AI  
+- Regression, Classification, Time Series Forecasting  
+- XGBoost, LightGBM, Model Optimization  
+- PyTorch, TensorFlow, CNNs, YOLOv8, Transfer Learning  
+
+### 🧠 NLP & GenAI  
+- LangChain, RAG Systems, Agentic AI  
+- Embeddings, LLM Prompting, Text Classification  
+
+### ⚙️ MLOps & Deployment  
+- Docker, FastAPI, CI/CD  
+- Jenkins, GitHub Actions  
+- Model Monitoring & Drift Detection  
+
+### ☁️ Cloud & Data  
+- AWS (EC2, S3, Lambda, SageMaker, API Gateway)  
+- Python, SQL, Git, Bash, Jupyter  
+- Tableau, Matplotlib, Plotly  
+- A/B Testing & Statistical Analysis  
+
+---
+
+## 📫 Connect With Me  
+
+<a href="https://linkedin.com/in/dharneprasad">
+  <img src="https://logo.clearbit.com/linkedin.com" height="50" width="50"/>
+</a>
+
+<a href="https://github.com/PrasadDharne9">
+  <img src="https://logo.clearbit.com/github.com" height="50" width="50"/>
+</a>
+
+<a href="mailto:dharneprasadt@gmail.com">
+  <img src="https://logo.clearbit.com/gmail.com" height="50" width="50"/>
+</a>
+
+---
+
+## 📊 GitHub Stats  
+
+<img src="https://github-readme-stats.vercel.app/api?username=PrasadDharne9&show_icons=true&theme=default" width="400"/>
+
+---
+
+## 🎯 What I'm Building Next  
+- Production-scale **Agentic AI Systems**  
+- Real-time **Optimization & Forecasting Platforms**  
+- Scalable **ML Infrastructure for Enterprise AI Products**
+
+---
 
 <img src="https://github-readme-stats.vercel.app/api?username=PrasadDharne9&show_icons=true" width="400">
