@@ -16,14 +16,13 @@
 
 ## 🛠️ Tech Stack  
 - <a>
-  <img src="https://images.prismic.io/plotly-marketing-website-2/0ca402d8-7851-48a0-a832-cfffdd35873b_Langchain_logo_dark.png?auto=compress,format" alt="python Logo" height="50" width="50" ></a> 
-- <a>
+  <img src="https://images.prismic.io/plotly-marketing-website-2/0ca402d8-7851-48a0-a832-cfffdd35873b_Langchain_logo_dark.png?auto=compress,format" alt="python Logo" height="50" width="50" ></a>  <a>
   <img src="https://tse4.mm.bing.net/th/id/OIP.s4HoGrVDAaD3AwaWmEjjSAHaDZ?pid=Api&P=0&h=180" alt="python Logo" height="50" width="50" ></a> 
 - <a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png?20211003060202" alt="python Logo" height="50" width="50" ></a> 
 - <a>
   <img src="https://logowik.com/content/uploads/images/tensorflow4903.jpg" alt="python Logo" height="50" width="50" ></a>  
--<a>
+- <a>
   <img src="https://tse2.mm.bing.net/th/id/OIP.Op4kDY4K4d126AL8ohW4awHaEK?pid=Api&P=0&h=180" alt="docker Logo" height="50" width="50" ></a>   
 - <a>
   <img src="https://tse2.mm.bing.net/th/id/OIP.TJOtzb0R00HVenXiKdRxogHaCY?pid=Api&P=0&h=180" alt="jenkins Logo" height="50" width="50" ></a> 
