@@ -5,7 +5,7 @@
 
 
 ## 😄 About Me  
-- Data Scientist with **2+ years of experience** building and deploying ML systems that drive real business impact  
+- Data Scientist with **3+ years of experience** building and deploying ML systems that drive real business impact  
 - Specialized in **Forecasting, Optimization, NLP, Computer Vision, and Agentic AI Systems**  
 - Experienced in **end-to-end ML pipelines** — from data ingestion and modeling to production deployment  
 - Strong in **A/B testing, experimentation frameworks, and translating model outputs into business decisions**  
